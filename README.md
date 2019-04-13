@@ -1,3 +1,6 @@
+![Calendar](https://user-images.githubusercontent.com/47619395/56083947-d50d8000-5de0-11e9-8f1c-8721eb8b1805.PNG)
+![Event](https://user-images.githubusercontent.com/47619395/56083951-d8087080-5de0-11e9-977d-77668a7a8539.PNG)
+
 # Calendar-App
 This GUI Calendar application creates a window to display a calendar for the current year. At the top of the, the current date and time is displayed using the preferences of the local host system. Users can set up and delete events for the current or succeeding years stored in a json file.
 
