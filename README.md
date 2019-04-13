@@ -1,28 +1,15 @@
+# Calendar-App
+This GUI Calendar application creates a window to display a calendar for the current year.
+
+# Navigation
+To transition between months, click on the buttons next to the month label. To navigate to the event window, click on the "+" label at the top right of the calendar. 
+
+# Event Frame Add/Delete Features
+To add an event, fill in the text fields in the panel on the left, then click the "Add Event" button. The panel on the right contains a list of the events for the current date labeled "Today's Events" and a text area below with the details of the event from the list which the user has selected. To delete an event, select the desired event and click on the "Delete Event" button.
+
+# Data Storage
+All event data will be stored in a ".json" file using the "EventJSON.java" file. Events added and deleted from the event window will appear/be removed from the .json file.
+
+# Screenshots
 ![Calendar](https://user-images.githubusercontent.com/47619395/56083947-d50d8000-5de0-11e9-8f1c-8721eb8b1805.PNG)
 ![Event](https://user-images.githubusercontent.com/47619395/56083951-d8087080-5de0-11e9-977d-77668a7a8539.PNG)
-
-# Calendar-App
-This GUI Calendar application creates a window to display a calendar for the current year. At the top of the, the current date and time is displayed using the preferences of the local host system. Users can set up and delete events for the current or succeeding years stored in a json file.
-
-# License
-MIT License
-
-Copyright (c) 2019 Kevin Choy Saephanh
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
